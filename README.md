@@ -70,7 +70,7 @@
 
   
  <p align="center" >
- <a href="#"><img alt="Yash's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=code4Y&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Yash's Github Stats"   src="https://github-readme-stats-ruby-one.vercel.app/api?username=code4Y&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
  
  <p align="center" >
  <a href="#"><img  alt="Yash's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=code4Y&theme=black-ice&hide_border=false&stroke=0000&background=0D1117" /> </a></p>
