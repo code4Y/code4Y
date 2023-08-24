@@ -18,6 +18,10 @@
 
 </a>
 
+<a href="https://yashcode4y.hashnode.dev/">
+  <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" />
+</a>
+
 <br>
 
 <br>
@@ -65,6 +69,23 @@
 
 <br>
 
+## My Blogs: ✍️  
+
+* ♻️ [Understanding Callback Functions in JavaScript: Simplified](https://yashcode4y.hashnode.dev/understanding-callback-functions)  
+
+* 🛠️ [Quizfy: Test Your Knowledge](https://yashcode4y.hashnode.dev/quizfy-test-your-knowledge)
+
+<br>
+
+## Certification: 📜
+
+<a href="https://www.credential.net/42e044be-57aa-4a71-bd04-b66616df7eea?key=8bbf98b2ffee5579e8623bc17410fcbc4c33796acbe172044bc9c6d281e322d0"> 
+  
+  <img alt="Google Cloud Digital Leader" src="https://i0.wp.com/shuvankar.com/wp-content/uploads/2022/09/CDL_Logo.png" height="120px" />
+
+</a>
+
+<br>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
