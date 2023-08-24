@@ -28,14 +28,26 @@
 
 <img align="right" width="500px" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg" />
 
-## I'm a Tech Enthusiast!
+I'm a Computer Science Master's student at Vellore Institute of Technology with a passion for software engineering and technology. Currently on the lookout for internships and full-time opportunities that will allow me to contribute and grow in the field.
 
-- 🌱 I’m currently learning JavaScript and exploring DevOps ✌️
-- 🔭 I’m currently working on Frontend projects 🤯
-- 👯 I’m looking to collaborate more on Hackathons and OpenSource 🙂
-- 💬 Ask me about Software Development and OpenSource 😁
-- ✨ I help people to learn tech 😉
-- ⚡ Fun fact: I ❤️ food, tech communities and meetups 😸
+## About Me
+- 🎓 Pursuing my Master's in Computer Science
+- 💻 Software Engineering Enthusiast
+- 🌐 Exploring web development and DevOps to create tangible impact
+- 🌱 Learning JavaScript to add interactivity to my projects
+- 🔧 Actively involved in frontend projects to enhance user experiences
+
+## Let's Connect and Collaborate!
+- 👯 I'm excited to collaborate on hackathons and open-source projects
+- 💬 Ask me about anything related to Software Development and Open Source
+- ✨ I believe in helping others learn and thrive in the world of tech
+
+## Fun Facts
+- ⚡ I have an unwavering love for both food and tech communities
+- 😸 Excited about attending meetups and networking with fellow tech enthusiasts
+
+Feel free to reach out if you're interested in collaboration, have questions, or just want to talk tech and share some good food recommendations! 🍔👩‍💻
+
 
 <br>
 
@@ -45,10 +57,13 @@
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/_code4Y" target="_blank" >
-    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://youtube.com/ProgrammingGuru" target="_blank" >
-    <img align="left" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)"/>
+    <img align="left" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="https://yashcode4y.hashnode.dev/" target="_blank">
+    <img align="left" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
 
   <br>
@@ -65,7 +80,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 
 <br>
 
@@ -92,7 +106,7 @@
   
  <p align="center">
    
-   <a href="#"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=code4y&rank_icon=github&title_color=4df3ff&text_color=fff&theme=transparent" /></a> 
+   <a href="#"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=code4y&rank_icon=github&title_color=4df3ff&text_color=fffff&theme=transparent" /></a> 
    <a href="#"><img  alt="Yash's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=code4Y&theme=black-ice&hide_border=false&stroke=0000&background=0D1117" /> </a>
    
  </p>
