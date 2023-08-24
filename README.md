@@ -26,7 +26,7 @@
 
 ## I'm a Tech Enthusiast!
 
-- 🌱 I’m currently learning Java, JavaScript and exploring DevOps ✌️
+- 🌱 I’m currently learning JavaScript and exploring DevOps ✌️
 - 🔭 I’m currently working on Frontend projects 🤯
 - 👯 I’m looking to collaborate more on Hackathons and OpenSource 🙂
 - 💬 Ask me about Software Development and OpenSource 😁
@@ -69,11 +69,13 @@
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
   
- <p align="center" >
- <a href="#"><img alt="Yash's Github Stats"   src="https://github-readme-stats-ruby-one.vercel.app/api?username=code4Y&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
- 
- <p align="center" >
- <a href="#"><img  alt="Yash's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=code4Y&theme=black-ice&hide_border=false&stroke=0000&background=0D1117" /> </a></p>
+ <p align="center">
+   
+   <a href="#"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=code4y&rank_icon=github&title_color=4df3ff&text_color=fff&theme=transparent" /></a> 
+   <a href="#"><img  alt="Yash's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=code4Y&theme=black-ice&hide_border=false&stroke=0000&background=0D1117" /> </a>
+   
+ </p>
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=code4Y)
