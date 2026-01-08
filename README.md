@@ -28,25 +28,21 @@
 
 <img align="right" width="500px" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg" />
 
-I'm a Computer Science Master's student at Vellore Institute of Technology with a passion for software engineering and technology. Currently on the lookout for internships and full-time opportunities that will allow me to contribute and grow in the field.
+I'm a software developer who enjoys turning ideas into clean, functional applications. I love solving problems, exploring how things work, and building solutions that are simple on the outside but strong on the inside.
 
 ## About Me
-- 🎓 Pursuing my Master's in Computer Science
-- 💻 Software Engineering Enthusiast
-- 🌐 Exploring web development and DevOps to create tangible impact
-- 🌱 Learning JavaScript to add interactivity to my projects
-- 🔧 Actively involved in frontend projects to enhance user experiences
+- 💻 Software Developer working with Java, C#, and React.js
+- 🌱 Always learning and exploring new ways to build better software
+- 🔧 Focused on creating meaningful, practical projects
 
 ## Let's Connect and Collaborate!
-- 👯 I'm excited to collaborate on hackathons and open-source projects
-- 💬 Ask me about anything related to Software Development and Open Source
-- ✨ I believe in helping others learn and thrive in the world of tech
+- 👯 Open to collaborations, discussions, and interesting software challenges
+- 💬 Ask me about anything related to software development or open source
+- ✨ I enjoy sharing ideas, learning from others, and exploring tech communities
 
 ## Fun Facts
-- ⚡ I have an unwavering love for both food and tech communities
-- 😸 Excited about attending meetups and networking with fellow tech enthusiasts
-
-Feel free to reach out if you're interested in collaboration, have questions, or just want to talk tech and share some good food recommendations! 🍔👩‍💻
+- ⚡ I love tech, good food, and connecting with like-minded people
+- 😸 Always curious, always experimenting
 
 
 <br>
